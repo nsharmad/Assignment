@@ -2,6 +2,8 @@ package demo;
 
 import java.util.Arrays;
 
+//this is projectdemo
+//here I am learning java
 public class ProjectDemo {
 
     public static void main(String[] args) {
